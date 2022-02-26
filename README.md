@@ -1,4 +1,4 @@
-# MATLAB/Octave Implementation of LFMFSmoothEarth Propagation Model
+# MATLAB/Octave Implementation of LFMF-SmoothEarth Propagation Model
 
 This code repository contains a MATLAB/Octave software implementation of  Low Frequency / Medium Frequency (LFMF) SmoothEarth Propagation Model, which predicts basic transmission loss in the frequency range 0.01 - 30 MHz for propagation paths over a smooth Earth and antenna heights less than 50 meters.  
 
